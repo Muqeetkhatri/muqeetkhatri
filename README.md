@@ -1,22 +1,16 @@
-<h2 align="left">Hi 👋! My name is Abdul Muqeet and I'm a Web Developer from Pakistan 🇵🇰</h2>
+<h2 align="left">Hi 👋! My name is Abdul Muqeet KHATRI and I'm a Web Developer (CODER) from Pakistan 🇵🇰</h2>
 
 ###
 
-<div align="center">
+ <div align="center">
   <img src="https://raw.githubusercontent.com/Muqeetkhatri/Muqeetkhatri/stats-output/stats.svg" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/Muqeetkhatri/Muqeetkhatri/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
+</div> 
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Muqeetkhatri&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muqeetkhatri&theme=dracula" alt="Contribution Graph"/>
 </div>
 
 ###
