@@ -43,6 +43,9 @@
 ###
 
 <br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muqeetkhatri/Muqeetkhatri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
