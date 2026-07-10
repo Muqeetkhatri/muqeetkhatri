@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdul Muqeet KHATRI and I'm a Web Developer (CODER) from Pakistan 🇵🇰</h2>
+<h2 align="left">Hi 👋! My name is ABDUL MUQEET KHATRI and I'm a Web Developer (CODER) from Pakistan 🇵🇰</h2>
 
 ###
 
